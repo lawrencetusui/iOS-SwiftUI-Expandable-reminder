@@ -1,0 +1,51 @@
+[
+	{
+		"text": "Who am I",
+        "children": [
+            {
+                "text": "Hello, I am Lawrence! This app contains some introduction. I am currently studying Information system at the University of Sydney. I am passionate about designing all kind of different physical or digital things.)"
+            }
+        ]
+	},
+	{
+		"text": "I love to do..",
+        "children": [
+            {
+                "text": " I am passionate about designing all kind of different physical or digital things. I would love to use my technology knowledge along with my creativity to make an impact on people."
+            }
+        ]
+	},
+	{
+		"text": "What do I do",
+        "children": [
+            {
+                "text": "I am interested in all kinds of technology, including iOS dev, react, API and experimenting with different languages."
+            }
+        ]
+	},
+	{
+		"text": "What languages do I know or have experience with",
+        "children": [
+            {
+                "text": "I have experience in Java, Js, C, R(statistics), Swift I have just completed my assignment of my TAFE for Diploma of Web development and gained fundemental knowledge about HTML, CSS, php and MYSQL.  My current interest in my free time is to further explore the use of various other web tools. In particular, I am continuing to create my project with React and SWIFT UI."
+            }
+        ]
+	},
+	{
+		"text": "Tools/Methodology",
+        "children": [
+            {
+                "text": "I have learned tools for agile methods for both programming and documentations such as confluence, Jira, gradle and Docker."
+            }
+        ]
+	},
+	
+	{
+		"text": "About this app",
+        "children": [
+            {
+                "text": "This basic app was with json, showing through the use of leaf and children Made by Lawrence to explore more about swift"
+            }
+        ]
+	}
+]
